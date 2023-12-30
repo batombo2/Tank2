@@ -27,9 +27,10 @@ The Tank is at 110, 10 now.
 The Tank is at 220, 30 now.
 
 */
+        UseRegEx();
     }
 
-    private void UseRegEx(){
+    private static void UseRegEx(){
         int start,end;
 
         String text = "abhh ababhh abababyyy";
