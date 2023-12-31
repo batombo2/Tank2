@@ -28,6 +28,7 @@ The Tank is at 220, 30 now.
 
 */
         UseRegEx();
+        System.out.println("Nothing");
     }
 
     private static void UseRegEx(){
